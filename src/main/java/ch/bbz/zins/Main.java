@@ -1,7 +1,14 @@
 package ch.bbz.zins;
 
+import ch.bbz.zins.aufgaben.Choice;
+
+import java.util.Scanner;
+
 public class Main {
+
     public static void main(String[] args) {
-        System.out.println("JAmie du geile sogge!");
+        Choice myClass = new Choice();
+        myClass.ausWaehlen();
     }
+
 }

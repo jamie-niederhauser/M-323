@@ -35,10 +35,10 @@ public class Choice {
         return "function";
     }
     public String averageZins(){
-        return "sheesh";
+        return "ajafalj";
     }
     public String minValueMonth(){
-        return "1234";
+        return "7894";
     }
     public String randomTask(){
         return "1111";

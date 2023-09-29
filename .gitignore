@@ -15,6 +15,7 @@ misc.xml
 .idea/.gitignore
 .idea/compiler.xml
 .idea/modules.xml
+zinsData.iml
 # AWS User-specific
 .idea/**/aws.xml
 

@@ -6,8 +6,8 @@ public class Choice {
     public void ausWaehlen(){
         Scanner scan = new Scanner(System.in);
         System.out.println("Welches Programm möchten Sie starten?");
-        System.out.println("1. Durchschnitt von jedem Monat \n 2. Höchster Durchschnitt \n 3. Durchschnittszinssatz über das ganze Jahr");
-        System.out.print("4. Liste mit Minimalwert eines Monats \n 5.Eine Liste mit veränderten Minimal- und Maxwert");
+        System.out.println("1. Durchschnitt von jedem Monat \n2. Höchster Durchschnitt \n3. Durchschnittszinssatz über das ganze Jahr");
+        System.out.print("4. Liste mit Minimalwert eines Monats \n5.Eine Liste mit veränderten Minimal- und Maxwert");
         String eingabe = scan.nextLine();
 
         switch (eingabe) {

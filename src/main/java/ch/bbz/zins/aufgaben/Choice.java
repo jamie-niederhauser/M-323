@@ -15,19 +15,33 @@ public class Choice {
                 averageMonth();
                 break;
             case "2":
+                highestMonth();
                 break;
             case "3":
+                averageZins();
                 break;
             case "4":
-
+                minValueMonth();
                 break;
             case "5":
-
+                randomTask();
                 break;
         }
     }
     public String averageMonth(){
         return "funktioniert";
+    }
+    public String highestMonth(){
+        return "function";
+    }
+    public String averageZins(){
+        return "sheesh";
+    }
+    public String minValueMonth(){
+        return "1234";
+    }
+    public String randomTask(){
+        return "1111";
     }
 }
 

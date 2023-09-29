@@ -6,9 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zinsData" />
         <module name="M-323" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="M-323" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
